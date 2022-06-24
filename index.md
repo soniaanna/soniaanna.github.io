@@ -1,32 +1,18 @@
-## Welcome to GitHub Pages
+## Sonia Anna Puton
 
-You can use the [editor on GitHub](https://github.com/soniaanna/soniaanna.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Sonia is a network cybersecurity specialist who is knowledgeable in both networking concepts and the current security landscape. She has experience working in a fast-paced environment and is always pursuing her own development goals. Sonia's interests include cloud computing, automation and AI.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Certifications
 
-### Markdown
+- AWS Developer Associate, 
+- Azure Security Engineer, 
+- Azure Fundamentals, 
+- CompTIA Linux+, 
+- CompTIA Cloud+, 
+- CCNA.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [LinkedIn Profile](https://www.linkedin.com/in/soniaanna/).
 
 ### Jekyll Themes
 
