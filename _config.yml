@@ -3,7 +3,7 @@ author: Sonia Anna Puton
 email: soniaanna@protonmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Welcome to my personal space. Dive in to explore my projects and insights in the world of cybersecurity.
-show_excerpts: true # set to true to show excerpts on the homepage
+
 remote_theme: samarsault/texture
 layout: Home
 
