@@ -5,19 +5,68 @@ Sonia is a network cybersecurity specialist who is knowledgeable in both network
 ### Certifications
 
 - AWS Developer Associate, 
-- Azure Security Engineer, 
+- AWS Security Specialty
+- Azure Security Engineer Associate, 
 - Azure Fundamentals, 
 - CompTIA Linux+, 
 - CompTIA Cloud+, 
 - CCNA.
 
+### Tech Stack
+**Cloud Platforms:**  
+- AWS
+- Azure
+- Akamai: Kona WAF, Bot Manager, Enterprise Access
 
-For more details see [LinkedIn Profile](https://www.linkedin.com/in/soniaanna/).
+**Networking:**  
+- Switching and Routing (Cisco IOS, BGP)
+- VPNs
 
-### Jekyll Themes
+**Security Analysis, Testing & Design:**  
+- OWASP vulnerabilities
+- Mitigation Techniques
+- Zero Trust Network Design
+- Penetration Testing
+- Expertise in DDoS & Bot Attacks
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soniaanna/soniaanna.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Security Tools:**  
+- OWASP ZAP
+- Burp Suite
+- SonarQube
 
-### Support or Contact
+**Configuration & Monitoring:**  
+- Firewall
+- ACLs
+- Snort
+- Deep Packet Inspection (tcpdump, Wireshark, BPF, Netflow)
+- Splunk
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Programming & Scripting:**  
+- Python
+- Bash Scripting
+
+**System Administration & Automation:**  
+- Linux (Advanced usage)
+- Ansible
+
+**Access & Trust Management:**  
+- Ping Access
+- Certificate Management, TLS/SSL configurations
+
+### CV
+#### Employment History
+**Senior Security Engineer**  
+*Netguru*  
+2022-present
+Lead security projects for clients. Analyze and fine-tune the security requirements of various tools. Conduct comprehensive security audits, penetration tests, and design robust security policies for customers in healthcare, fintech, and retail industries. Advise developer teams.
+
+**Security Architect II**  
+*Akamai*  
+2020-2022
+Architected, implemented, and optimized new security tools. Collaborated with field teams, guiding various customer integrations and fostering product enhancements. Liaised with Business, Sales, and Engineering departments, ensuring efficient product trials. Focused on WAF, bot protection, and enterprise access solutions.
+
+**SOC Specialist**  
+*Akamai*  
+2017-2020
+Completed a five-month undergraduate trainee program. Engaged in real-time web traffic analysis, identifying and mitigating potential security threats. Conducted security forensic investigations and configured mitigation strategies against a variety of attacks during live threats. Communicated with clients. Automated daily workflows using Python, Docker, Git, Bash. Acted as a Subject Matter Expert in bot management strategies.
+
