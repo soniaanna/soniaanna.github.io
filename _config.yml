@@ -1,48 +1,6 @@
-title: Sonia Puton - Cybersecurity Engineer
-author: Sonia Anna Puton
-email: soniaanna@protonmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Welcome to my personal space. Dive in to explore my projects and insights in the world of cybersecurity.
-
-remote_theme: samarsault/texture
-layout: Home
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-sass:
-  sass_dir: _sass
-
-permalink: /posts/:title/
-texture:
-  title: Sonia Puton
-  tagline: Cybersecurity Specialist
-  date_format: "%b %-d, %Y"
-  style: blue # or any other color you prefer
-  showPicker: false
-  showNav: true
-  navigation:
-    - title: CV
-      url: "/cv"
-    - title: Projects
-      url: "/projects"
-  # Add any other configurations like Google Analytics ID, Disqus comments, etc.
-
-
-  # generate social links in footer
-  social_links:
-    github:  soniaanna
-    linkedIn: soniaannaputon
-    rss: rss
- 
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
-# theme: texture
-
+theme: jekyll-theme-cayman
+title: Sonia Puton - Cybersecurity Specialist
+description: Welcome to my personal space! Dive in to explore my projects and insights in the world of cybersecurity.
+favicon: /favicon.ico
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
