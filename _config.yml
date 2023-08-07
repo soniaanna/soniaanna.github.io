@@ -4,8 +4,8 @@ email: soniaanna@protonmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Welcome to my personal space. Dive in to explore my projects and insights in the world of cybersecurity.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
 remote_theme: samarsault/texture
+layout: Home
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -14,12 +14,19 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Sonia Anna Puton
-  tagline: Cybersecurity Engineer
+  title: Sonia Puton
+  tagline: Cybersecurity Specialist
   date_format: "%b %-d, %Y"
-  style: black
-  showNav: false
-  showPicker: true
+  style: blue # or any other color you prefer
+  showPicker: false
+  showNav: true
+  navigation:
+    - title: CV
+      url: "/cv"
+    - title: Projects
+      url: "/projects"
+  # Add any other configurations like Google Analytics ID, Disqus comments, etc.
+
 
   # generate social links in footer
   social_links:
