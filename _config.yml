@@ -60,11 +60,58 @@ content:
         link: netguru.com
         # link_text: boringcompany.com
         sub_title: Senior Security Engineer
-        caption: 2022 - present
+        caption: march 2022 - present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Taking cybersecurity for our clients to next level
         description: | # this will include new lines to allow paragraphs
             At Netguru, I've been leading security projects for clients, analyzing and fine-tuning security requirements of various tools. My tasks include conducting comprehensive security audits, designing robust security policies, and performing penetration tests for clients in healthcare, fintech, and retail sectors. Additionally, I often advise developer teams on security best practices.
+
+      - layout: left
+        title: Akamai Technologies
+        link: akamai.com
+        # link_text: boringcompany.com
+        sub_title: Security Architect II
+        caption: november 2020 - march 2022 · 1 yr 5 mos
+        quote: >
+          Making Internet fast, reliable and secure
+        description: | # this will include new lines to allow paragraphs
+            I was one of the security architect in the Product Development Aligned Services team. My tasks included:
+            · Develop best practices for the operations to ensure quality
+            · Coordinate with relevant teams to speed go to product delivery
+            · Own the technical components of a customer integration project
+
+      - layout: left
+        title: Akamai Technologies
+        link: akamai.com
+        # link_text: boringcompany.com
+        sub_title: Security Operations Specialist II
+        caption: september 2017 - november 2020 · 3 yrs and 4 mos
+        quote: >
+          Security management, monitoring, and mitigation. One fully managed service.
+        description: | # this will include new lines to allow paragraphs
+            My job in Akamai SOC was consisting of:
+            · Configuring and troubleshooting WAF and customer integration issues while under attack
+            · Development, testing and implementation of security products - including BGP routing tests
+            · DDoS attack mitigation on Prolexic platform
+            · Customer communications relating to advanced security events
+            · Advanced packet analysis to identify complex attack vectors - tcpdump, wireshark
+            · Security alerts response calls, providing recommendations
+            · Security alerts analysis and investigation - Splunk
+            · Subject Matter Expert in bot management, botnet attacks.
+            · Automating daily workflows using Python, Docker, Git, Bash.
+
+      - layout: left
+        title: Akamai Technologies
+        link: akamai.com
+        # link_text: boringcompany.com
+        sub_title: Academic Intern
+        caption: april 2017 - september 2017 · 5 mos
+        quote: >
+          Security management, monitoring, and mitigation. One fully managed service.
+        description: | # this will include new lines to allow paragraphs
+            Completed 5 month intensive technical training with weekly assessments in the following topics: 
+            Linux | Bash | Databases | SQL | ITIL | Security | Python | Django
+
 
   - title: Certifications
     layout: list
@@ -146,9 +193,6 @@ content:
       - Sports (gymnastics, calisthenics)
       - Crochet, arts and crafts, painting landscapes
       - Yoga, meditation and all wellness things
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
 
 
 # Footer
