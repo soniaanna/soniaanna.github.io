@@ -76,9 +76,9 @@ content:
           Making Internet fast, reliable and secure
         description: | # this will include new lines to allow paragraphs
             I was one of the security architect in the Product Development Aligned Services team. My tasks included:
-            · Develop best practices for the operations to ensure quality
-            · Coordinate with relevant teams to speed go to product delivery
-            · Own the technical components of a customer integration project
+            - Develop best practices for the operations to ensure quality
+            - Coordinate with relevant teams to speed go to product delivery
+            - Own the technical components of a customer integration project
 
       - layout: left
         title: Akamai Technologies
@@ -90,15 +90,15 @@ content:
           Security management, monitoring, and mitigation. One fully managed service.
         description: | # this will include new lines to allow paragraphs
             My job in Akamai SOC was consisting of:
-            · Configuring and troubleshooting WAF and customer integration issues while under attack
-            · Development, testing and implementation of security products - including BGP routing tests
-            · DDoS attack mitigation on Prolexic platform
-            · Customer communications relating to advanced security events
-            · Advanced packet analysis to identify complex attack vectors - tcpdump, wireshark
-            · Security alerts response calls, providing recommendations
-            · Security alerts analysis and investigation - Splunk
-            · Subject Matter Expert in bot management, botnet attacks.
-            · Automating daily workflows using Python, Docker, Git, Bash.
+            - Configuring and troubleshooting WAF and customer integration issues while under attack
+            - Development, testing and implementation of security products - including BGP routing tests
+            - DDoS attack mitigation on Prolexic platform
+            - Customer communications relating to advanced security events
+            - Advanced packet analysis to identify complex attack vectors - tcpdump, wireshark
+            - Security alerts response calls, providing recommendations
+            - Security alerts analysis and investigation - Splunk
+            - Subject Matter Expert in bot management, botnet attacks.
+            - Automating daily workflows using Python, Docker, Git, Bash.
 
       - layout: left
         title: Akamai Technical Academy
@@ -108,7 +108,7 @@ content:
         caption: april 2017 - sept 2017 · 5 mos
 
         description: | # this will include new lines to allow paragraphs
-            Completed 5 month intensive technical training with weekly assessments in the following topics: 
+            Completed 5 month intensive technical training with weekly assessments in the following topics: |
             Linux | Bash | Databases | SQL | ITIL | Security | Python | Django
 
 
@@ -128,8 +128,7 @@ content:
 
           - **Microsoft Certified: Azure Fundamentals**  
           *Microsoft*
-      - layout: right
-      - description: |
+
           - **CompTIA Cloud+ ce Certification**  
           *CompTIA*
 
