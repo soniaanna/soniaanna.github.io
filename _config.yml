@@ -48,7 +48,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hi, my name is Sonia, and I am a seasoned Cybersecurity Specialist. Over the years, I've held multiple key roles in the field of cybersecurity, where my primary focus has been the safety and protection of digital assets and infrastructures. My journey began at Akamai, where I started as an SOC Specialist, and I quickly climbed the ranks due to my dedication and expertise. I am knowledgeable in both networking concepts and current security landscape. I have worked in fast-paced environment, while pursuing my own development goals. I am interested in cloud computing, AI and software engineering.
 
-  I am most skilled in: <mark>Network Security</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Network Security</mark> and <mark>Security Investigations</mark>
 
 content:
 
@@ -115,59 +115,46 @@ content:
 
   - title: Certifications
     layout: list
-    content:
-      - layout: top
-        title: AWS Certified Security – Specialty
-        sub_title: Amazon Web Services Training and Certification
-          
-      - layout: top
-        title: 'Microsoft Certified: Azure Security Engineer Associate'
-        sub_title: Microsoft
+    content: |
+      - **AWS Certified Security – Specialty**  
+      *Amazon Web Services Training and Certification*
 
-      - layout: top
-        title: AWS Certified Developer – Associate
-        sub_title: Amazon Web Services Training and Certification
-      
-      - layout: top
-        title: 'Microsoft Certified: Azure Fundamentals'
-        sub_title: Microsoft
-      
-      - layout: top
-        title: CompTIA Cloud+ ce Certification
-        sub_title: CompTIA
-      
-      - layout: top
-        title: CompTIA Linux+ ce Certification
-        sub_title: CompTIA
-      
-      - layout: top
-        title: Understanding of Cisco Network Devices
-        sub_title: Cisco
-      
-      - layout: top
-        title: Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
-        sub_title: Cisco
+      - **Microsoft Certified: Azure Security Engineer Associate**  
+      *Microsoft*
+
+      - **AWS Certified Developer – Associate**  
+      *Amazon Web Services Training and Certification*
+
+      - **Microsoft Certified: Azure Fundamentals**  
+      *Microsoft*
+
+      - **CompTIA Cloud+ ce Certification**  
+      *CompTIA*
+
+      - **CompTIA Linux+ ce Certification**  
+      *CompTIA*
+
+      - **Understanding of Cisco Network Devices**  
+      *Cisco*
+
+      - **Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)**  
+      *Cisco*
+
+      - **Web Application Security Training**
+      *Niebezpiecznik*
 
 
   - title: Professional Skills # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - title: Switching and Routing
-        caption: Cisco IOS, BGP
-      - title: Security Alerts
-        caption: Analysis and Evaluation
-      - title: OWASP Expertise
-        caption: Understanding of vulnerabilities and mitigation techniques
-      - title: Firewall and Security
-        caption: ACLs, Snort configuration
-      - title: Deep Packet Inspection
-        caption: tcpdump, wireshark, Berkeley Packet Filtering, Netflow
-      - title: Programming
-        caption: Python
-      - title: Scripting
-        caption: Bash scripting
-      - title: Systems Administration
-        caption: Linux administration
+    content: |
+        - **Switching and Routing**: Cisco IOS, BGP
+        - **Security Alerts**: Analysis and Evaluation
+        - **OWASP Expertise**: Understanding of vulnerabilities and mitigation techniques
+        - **Firewall and Security**: ACLs, Snort configuration
+        - **Deep Packet Inspection**: tcpdump, wireshark, Berkeley Packet Filtering, Netflow
+        - **Programming**: Python
+        - **Scripting**: Bash scripting
+        - **Systems Administration**: Linux administration
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -177,14 +164,20 @@ content:
         caption: 2018 - 2019
         sub_title: Computer Science - Postgraduate
         description: | # You can fill in additional details or leave blank
-          (details about the postgraduate course or experiences)
+          - Specialized in Design, Programming and Systems Operations focusing on the practical application of algorithms in real-world situations.
+          - Undertook projects in Java, Python, ASP.NET
+          - Studied databases, networking concepts and object programming
 
       - layout: left
         title: AGH, Kraków
         caption: 2013 - 2017
         sub_title: Bachelor of Petroleum Engineering
         description: | # You can fill in additional details or leave blank
-          (details about the bachelor's course or experiences)
+          - Specialized in drilling techniques and methodologies.
+          - Achieved a GPA of 4.21/5.00, reflecting strong academic performance.
+          - Awarded the Scholarship for Outstanding Results (High GPA) by AGH in both October 2016 and October 2014 for academic excellence.
+          - Volunteered as a Student Mentor with Stowarzyszenie ESN Polska.
+          - Served as Project Coordinator for Niezależne Zrzeszenie Studentów
 
   - title: A Little More About Me
     layout: text
