@@ -1,0 +1,73 @@
+# Personal Details
+name: Sonia Anna Puton
+title: Senior Security Engineer
+email: sonia.anna@protonmail.com
+website: www.github.com/soniaanna
+description: Welcome to my personal space! Dive in to explore my projects and insights in the world of cybersecurity.
+
+# Use the new theme
+remote_theme: sproogen/resume-theme
+
+# Favicon and other configurations
+favicon: /favicon.ico
+
+# Dark Mode
+darkmode: false
+
+# Social links
+github_username:  soniaanna
+linkedin_username: soniaannaputon
+
+# About Section
+about_profile_image: images/profile.jpg
+about_content: |
+ Hi, my name is Sonia, and I am a seasoned Cybersecurity Specialist. Over the years, I've held multiple key roles in the field of cybersecurity, where my primary focus has been the safety and protection of digital assets and infrastructures. My journey began at Akamai, where I started as an SOC Specialist, and I quickly climbed the ranks due to my dedication and expertise. I am knowledgeable in both networking concepts and current security landscape. I have worked in fast-paced environment, while pursuing my own development goals. I am interested in cloud computing, AI and software engineering.
+
+# Content
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Netguru
+        sub_title: Senior Security Engineer
+        caption: 2022-present
+        description: |
+          At Netguru, I've been leading security projects for clients, analyzing and fine-tuning security requirements of various tools. My tasks include conducting comprehensive security audits, designing robust security policies, and performing penetration tests for clients in healthcare, fintech, and retail sectors. Additionally, I often advise developer teams on security best practices.
+
+      - layout: left
+        title: Akamai
+        sub_title: Security Architect II
+        caption: 2020-2022
+        description: |
+          As a Security Architect at Akamai, I was responsible for architecting, implementing, and optimizing new security tools. Collaborating with field teams allowed me to guide customer integrations and suggest product enhancements. I also liaised between Business, Sales, and Engineering departments to ensure smooth product trials. My work primarily revolved around WAF, bot protection, and enterprise access solutions.
+
+      - layout: left
+        title: Akamai
+        sub_title: SOC Specialist
+        caption: 2017-2018
+        description: |
+          My career at Akamai began with a five-month undergraduate trainee program. I was engaged in real-time web traffic analysis, identifying potential security threats. My responsibilities extended to security forensics, where I strategized mitigations against various attacks during live threats. I automated daily workflows using tools like Python, Docker, Git, and Bash, and established myself as an SME in bot management strategies.
+
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Alongside my interests in cybersecurity, I also enjoy:
+      - Sports (gymnastics, calisthenics)
+      - Crochet, arts and crafts, painting landscapes
+      - Yoga, meditation and all wellness things
+
+
+# ... (Continue with other sections like Projects, Experience, Education etc.)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
