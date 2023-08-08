@@ -106,8 +106,7 @@ content:
         link_text: Akamai Technical Academy - Video
         sub_title: Academic Intern
         caption: april 2017 - sept 2017 · 5 mos
-        quote: >
-          Security management, monitoring, and mitigation. One fully managed service.
+
         description: | # this will include new lines to allow paragraphs
             Completed 5 month intensive technical training with weekly assessments in the following topics: 
             Linux | Bash | Databases | SQL | ITIL | Security | Python | Django
@@ -116,7 +115,7 @@ content:
   - title: Certifications
     layout: list
     content: 
-      - layout: top
+      - layout: left
       - description: |
           - **AWS Certified Security – Specialty**  
           *Amazon Web Services Training and Certification*
@@ -129,7 +128,8 @@ content:
 
           - **Microsoft Certified: Azure Fundamentals**  
           *Microsoft*
-
+      - layout: right
+      - description: |
           - **CompTIA Cloud+ ce Certification**  
           *CompTIA*
 
@@ -149,7 +149,7 @@ content:
   - title: Professional Skills # Title for the section
     layout: list # Type of content section (list/text)
     content: 
-      - layout: top
+      - layout: left
       - description: |
           - **Switching and Routing**: Cisco IOS, BGP
           - **Security Alerts**: Analysis and Evaluation
