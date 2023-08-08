@@ -66,25 +66,41 @@ content:
         description: | # this will include new lines to allow paragraphs
             At Netguru, I've been leading security projects for clients, analyzing and fine-tuning security requirements of various tools. My tasks include conducting comprehensive security audits, designing robust security policies, and performing penetration tests for clients in healthcare, fintech, and retail sectors. Additionally, I often advise developer teams on security best practices.
 
-  - title: Certifications # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Certifications
+    layout: list
     content:
-      - title: AWS Certified Security – Specialty
-        caption: Amazon Web Services Training and Certification
-      - title: 'Microsoft Certified: Azure Security Engineer Associate'
-        caption: Microsoft
-      - title: AWS Certified Developer – Associate
-        caption: Amazon Web Services Training and Certification
-      - title: 'Microsoft Certified: Azure Fundamentals'
-        caption: Microsoft
-      - title: CompTIA Cloud+ ce Certification
-        caption: CompTIA
-      - title: CompTIA Linux+ ce Certification
-        caption: CompTIA
-      - title: Understanding of Cisco Network Devices
-        caption: Cisco
-      - title: Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
-        caption: Cisco
+      - layout: top
+        title: AWS Certified Security – Specialty
+        sub_title: Amazon Web Services Training and Certification
+          
+      - layout: top
+        title: 'Microsoft Certified: Azure Security Engineer Associate'
+        sub_title: Microsoft
+
+      - layout: top
+        title: AWS Certified Developer – Associate
+        sub_title: Amazon Web Services Training and Certification
+      
+      - layout: top
+        title: 'Microsoft Certified: Azure Fundamentals'
+        sub_title: Microsoft
+      
+      - layout: top
+        title: CompTIA Cloud+ ce Certification
+        sub_title: CompTIA
+      
+      - layout: top
+        title: CompTIA Linux+ ce Certification
+        sub_title: CompTIA
+      
+      - layout: top
+        title: Understanding of Cisco Network Devices
+        sub_title: Cisco
+      
+      - layout: top
+        title: Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)
+        sub_title: Cisco
+
 
   - title: Professional Skills # Title for the section
     layout: list # Type of content section (list/text)
