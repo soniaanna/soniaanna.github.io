@@ -64,7 +64,7 @@ content:
         quote: >
           Taking cybersecurity for our clients to next level
         description: | # this will include new lines to allow paragraphs
-            At Netguru, I've been leading security projects for clients, analyzing and fine-tuning security requirements of various tools. My tasks include conducting comprehensive security audits, designing robust security policies, and performing penetration tests for clients in healthcare, fintech, and retail sectors. Additionally, I often advise developer teams on security best practices.
+            At Netguru, I've been leading security projects for clients, analyzing and fine-tuning security requirements of various tools. My tasks include conducting comprehensive security audits, architecture reviews, thread modelling, designing robust security policies, and performing penetration tests for clients in healthcare, fintech, and retail sectors. Additionally, I often advise developer teams on security best practices.
 
       - layout: left
         title: Akamai Technologies
@@ -139,21 +139,21 @@ content:
           - **Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)**  
           *Cisco*
 
-          - **Web Application Security Training**
+          - **Web Application Security Training**  
           *Niebezpiecznik*
 
 
   - title: Professional Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-          - **Switching and Routing**: Cisco IOS, BGP
-          - **Security Alerts**: Analysis and Evaluation
+          - **Switching and Routing**: Cisco IOS, BGP, VPNs
+          - **Security Monitoring**: Analysis and Evaluation, Incident analysis and Response, Splunk
           - **OWASP Expertise**: Understanding of vulnerabilities and mitigation techniques
-          - **Firewall and Security**: ACLs, Snort configuration
+          - **Firewalls**: ACLs, Snort, Suricata, Akamai Kona WAF, Bot Manager, Enterprise Access
           - **Deep Packet Inspection**: tcpdump, wireshark, Berkeley Packet Filtering, Netflow
-          - **Programming**: Python
-          - **Scripting**: Bash scripting
-          - **Systems Administration**: Linux administration 
+          - **Scripting**: Bash, Python
+          - **Systems Administration**: Linux administration, Ansible
+          - **Security Tools**: Burp Suite, OWASP ZAP, SonarQube, snyk
         
 
   - title: Education # Title for the section
