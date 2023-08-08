@@ -71,7 +71,7 @@ content:
         link: akamai.com
         # link_text: boringcompany.com
         sub_title: Security Architect II
-        caption: november 2020 - march 2022 · 1 yr 5 mos
+        caption: nov 2020 - march 2022 · 1 yr 5 mos
         quote: >
           Making Internet fast, reliable and secure
         description: | # this will include new lines to allow paragraphs
@@ -85,7 +85,7 @@ content:
         link: akamai.com
         # link_text: boringcompany.com
         sub_title: Security Operations Specialist II
-        caption: september 2017 - november 2020 · 3 yrs and 4 mos
+        caption: sept 2017 - nov 2020 · 3 yrs and 4 mos
         quote: >
           Security management, monitoring, and mitigation. One fully managed service.
         description: | # this will include new lines to allow paragraphs
@@ -101,11 +101,11 @@ content:
             · Automating daily workflows using Python, Docker, Git, Bash.
 
       - layout: left
-        title: Akamai Technologies
-        link: akamai.com
-        # link_text: boringcompany.com
+        title: Akamai Technical Academy
+        link: https://www.youtube.com/watch?v=Wi26pOIdyKg&t=54s
+        link_text: Akamai Technical Academy - Video
         sub_title: Academic Intern
-        caption: april 2017 - september 2017 · 5 mos
+        caption: april 2017 - sept 2017 · 5 mos
         quote: >
           Security management, monitoring, and mitigation. One fully managed service.
         description: | # this will include new lines to allow paragraphs
@@ -115,46 +115,51 @@ content:
 
   - title: Certifications
     layout: list
-    content: |
-      - **AWS Certified Security – Specialty**  
-      *Amazon Web Services Training and Certification*
+    content: 
+      - layout: top
+      - description: |
+          - **AWS Certified Security – Specialty**  
+          *Amazon Web Services Training and Certification*
 
-      - **Microsoft Certified: Azure Security Engineer Associate**  
-      *Microsoft*
+          - **Microsoft Certified: Azure Security Engineer Associate**  
+          *Microsoft*
 
-      - **AWS Certified Developer – Associate**  
-      *Amazon Web Services Training and Certification*
+          - **AWS Certified Developer – Associate**  
+          *Amazon Web Services Training and Certification*
 
-      - **Microsoft Certified: Azure Fundamentals**  
-      *Microsoft*
+          - **Microsoft Certified: Azure Fundamentals**  
+          *Microsoft*
 
-      - **CompTIA Cloud+ ce Certification**  
-      *CompTIA*
+          - **CompTIA Cloud+ ce Certification**  
+          *CompTIA*
 
-      - **CompTIA Linux+ ce Certification**  
-      *CompTIA*
+          - **CompTIA Linux+ ce Certification**  
+          *CompTIA*
 
-      - **Understanding of Cisco Network Devices**  
-      *Cisco*
+          - **Understanding of Cisco Network Devices**  
+          *Cisco*
 
-      - **Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)**  
-      *Cisco*
+          - **Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)**  
+          *Cisco*
 
-      - **Web Application Security Training**
-      *Niebezpiecznik*
+          - **Web Application Security Training**
+          *Niebezpiecznik*
 
 
   - title: Professional Skills # Title for the section
     layout: list # Type of content section (list/text)
-    content: |
-        - **Switching and Routing**: Cisco IOS, BGP
-        - **Security Alerts**: Analysis and Evaluation
-        - **OWASP Expertise**: Understanding of vulnerabilities and mitigation techniques
-        - **Firewall and Security**: ACLs, Snort configuration
-        - **Deep Packet Inspection**: tcpdump, wireshark, Berkeley Packet Filtering, Netflow
-        - **Programming**: Python
-        - **Scripting**: Bash scripting
-        - **Systems Administration**: Linux administration
+    content: 
+      - layout: top
+      - description: |
+          - **Switching and Routing**: Cisco IOS, BGP
+          - **Security Alerts**: Analysis and Evaluation
+          - **OWASP Expertise**: Understanding of vulnerabilities and mitigation techniques
+          - **Firewall and Security**: ACLs, Snort configuration
+          - **Deep Packet Inspection**: tcpdump, wireshark, Berkeley Packet Filtering, Netflow
+          - **Programming**: Python
+          - **Scripting**: Bash scripting
+          - **Systems Administration**: Linux administration 
+        
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
