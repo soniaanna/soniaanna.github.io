@@ -64,7 +64,7 @@ content:
         quote: >
           Innovating secure solutions for the bank's online services at a global scale.
         description: | # this will include new lines to allow paragraphs
-            As a Systems Engineer at Credit Suisse, I am part of an international team responsible for products within the Internet Facing Application security area. Our teams, spread across the globe collaborates to secure the bank's online services.
+            As a Systems Engineer at Credit Suisse, I am part of an international team responsible for products within the Internet Facing Application security area. Our teams, spread across the globe collaborate to secure the bank's online services.
 
             The tech stack includes: HTTP Reverse Proxy, Web Application Firewall, Authentication, Token Management, and Identity Federation Services. 
 
@@ -163,13 +163,31 @@ content:
     content: |
           - **Switching and Routing**: Cisco IOS, BGP, VPNs
           - **Security Monitoring**: Analysis and Evaluation, Incident analysis and Response, Splunk
-          - **OWASP Expertise**: Understanding of vulnerabilities and mitigation techniques
-          - **Firewalls**: ACLs, Snort, Suricata, Akamai Kona WAF, Bot Manager, Enterprise Access
+          - **OWASP Expertise**: Understanding of vulnerabilities and mitigation techniques, OWASP Top 10, AVSV, MASVS, penetration testing experience
+          - **Firewalls**: ACLs, Snort, Suricata, Akamai Kona WAF, Bot Manager, Enterprise Access, SELinux
           - **Deep Packet Inspection**: tcpdump, wireshark, Berkeley Packet Filtering, Netflow
-          - **Scripting**: Bash, Python
+          - **Scripting**: Bash, Python, git, CI/CD pipelines, jenkins
           - **Systems Administration**: Linux administration, Ansible
-          - **Security Tools**: Burp Suite, OWASP ZAP, SonarQube, snyk
-        
+          - **Security Tools**: Burp Suite, OWASP ZAP, SonarQube, snyk, Ping Access
+          - **Cloud Computing**:
+              - **AWS**:
+                  - AWS Identity and Access Management (IAM)
+                  - AWS Key Management Service (KMS)
+                  - AWS CloudTrail
+                  - Amazon GuardDuty
+                  - AWS Security Hub
+                  - AWS WAF & Shield
+                  - AWS Secrets Manager
+                  - Amazon Macie
+              - **Azure**:
+                  - Azure Active Directory (AD)
+                  - Azure Security Center
+                  - Azure Key Vault
+                  - Azure Policy
+                  - Azure Network Security Groups (NSG)
+                  - Azure Firewall
+                  - Azure Blueprints
+                  - Azure Monitor & Log Analytics
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
