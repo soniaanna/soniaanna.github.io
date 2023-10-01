@@ -56,11 +56,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Credit Suisse
+        link: www.credit-suisse.com
+        # link_text: boringcompany.com
+        sub_title: Systems Engineer (Application Security)
+        caption: 2023 - present
+        quote: >
+          Innovating secure solutions for the bank's online services at a global scale.
+        description: | # this will include new lines to allow paragraphs
+            As a Systems Engineer at Credit Suisse, I am part of an international team responsible for products within the Internet Facing Application security area. Our teams, spread across the globe collaborates to secure the bank's online services.
+
+            The tech stack includes: HTTP Reverse Proxy, Web Application Firewall, Authentication, Token Management, and Identity Federation Services. 
+
+            My background, boasting over 5+ years of experience in IT within the financial industry and extensive system engineering and application management experience, especially in the Linux environment, plays a pivotal role. My expertise in web security technologies, scripting, DevOps, CI/CD tooling, and collaboration with various teams made me a valuable asset to the bank's mission of providing secure and innovative IT solutions.
+
+      - layout: left
         title: Netguru
         link: netguru.com
         # link_text: boringcompany.com
         sub_title: Senior Security Engineer
-        caption: march 2022 - present
+        caption: 2022 - 2023
         quote: >
           Taking cybersecurity for our clients to next level
         description: | # this will include new lines to allow paragraphs
@@ -71,7 +86,7 @@ content:
         link: akamai.com
         # link_text: boringcompany.com
         sub_title: Security Architect II
-        caption: nov 2020 - march 2022 · 1 yr 5 mos
+        caption: 2020 - 2022 · 1 yr 5 mos
         quote: >
           Making Internet fast, reliable and secure
         description: | # this will include new lines to allow paragraphs
@@ -85,7 +100,7 @@ content:
         link: akamai.com
         # link_text: boringcompany.com
         sub_title: Security Operations Specialist II
-        caption: sept 2017 - nov 2020 · 3 yrs and 4 mos
+        caption: 2017 - 2020 · 3 yrs and 4 mos
         quote: >
           Security management, monitoring, and mitigation. One fully managed service.
         description: | # this will include new lines to allow paragraphs
@@ -105,7 +120,7 @@ content:
         link: https://www.youtube.com/watch?v=Wi26pOIdyKg&t=54s
         link_text: Akamai Technical Academy - Video
         sub_title: Academic Intern
-        caption: april 2017 - sept 2017 · 5 mos
+        caption: 2017 - 2017 · 5 mos
 
         description: | # this will include new lines to allow paragraphs
             Completed 5 month intensive technical training with weekly assessments in the following topics: 
