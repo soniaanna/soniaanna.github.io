@@ -7,3 +7,4 @@
 #
 layout: default
 ---
+[Link to Projects](projects-page.md)
